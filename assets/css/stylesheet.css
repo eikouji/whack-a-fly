@@ -1,0 +1,22 @@
+.grid {
+    width: 618px;
+    height: 618px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.square {
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+}
+
+
+.housefly {
+    background-image: url(
+        "https://github.com/eikouji/whack-a-fly/blob/main/assets/images/housefly-200x200.jpg"
+        );
+    background-size: cover;
+}
